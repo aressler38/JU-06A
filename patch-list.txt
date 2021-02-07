@@ -1,0 +1,133 @@
+JUNO-60
+-----------------------
+1-1 LD Echolocator
+1-2 BS WalkMe Bass
+1-3 SY Poly Chord
+1-4 PD Crystal Pad
+1-5 PD Porta Pad
+1-6 KY Delicate Keys
+1-7 FX Drone Mass
+1-8 SY BuzzDrone
+2-1 SY PCH Chase
+2-2 SY Dusty Funk
+2-3 SY Rock 85
+2-4 SY Echo Poly
+2-5 SY Snow Drops
+2-6 KY Organish
+2-7 PD Dyno Sweep
+2-8 PD Ripple Pad
+3-1 PD Saturate Pad
+3-2 PD FoundUndergnd
+3-3 PD Kyoushin
+3-4 PD Reflecting
+3-5 PD Resonator
+3-6 BS Ouch Bass
+3-7 BS Juice Bass
+3-8 BS Killer Bass
+4-1 BS Parameter Bs
+4-2 BS Slow Blob
+4-3 BS Big Blade Bs
+4-4 LD Rip Lead
+4-5 LD Silo Lead
+4-6 LD Echo Chamber
+4-7 LD Soul Icon
+4-8 FX KickRise
+5-1 1982 Strings 2
+5-2 1982 Strings 3
+5-3 1982 Organ 1
+5-4 1982 Phase Brs
+5-5 1982 Piano 1
+5-6 1982 MellowPiano
+5-7 1982 Harpsichd 2
+5-8 1982 Guitar
+6-1 1982 Synth Harp
+6-2 1982 Bass 1
+6-3 1982 Clav 1
+6-4 1982 Pizzicato 1
+6-5 1982 Xylophone
+6-6 1982 Glocken
+6-7 1982 Violine
+6-8 1982 Trumpet
+7-1 1982 Tuba
+7-2 1982 Flute
+7-3 1982 Clarinet
+7-4 1982 Wah Bass
+7-5 1982 PhaseCombi
+7-6 1982 Reed 1
+7-7 1982 Pop Pluck
+7-8 1982 PWM Chorus
+8-1 1982 SynthOrgan
+8-2 1982 Space 1
+8-3 1982 Space 2
+8-4 1982 Whistle
+8-5 1982 UFO
+8-6 1982 Space 3
+8-7 1982 Surf
+8-8 1982 Synth Drum
+
+JUNO-106
+-----------------------
+1-1 Brass
+1-2 Brass Swell
+1-3 Trumpet
+1-4 Flute
+1-5 Moving Strings
+1-6 Brass & Strings
+1-7 Choir
+1-8 Piano I
+2-1 Organ I
+2-2 Organ II
+2-3 Combo Organ
+2-4 Calliope
+2-5 Donald Pluck
+2-6 Celesta
+2-7 Electric Piano 1
+2-8 Electric Piano 2
+3-1 Clock Chime
+3-2 Steel Drums
+3-3 Xylophone
+3-4 Brass II
+3-5 Fanfare
+3-6 Strings
+3-7 Pizzicato
+3-8 High Strings
+4-1 80s JU Brass
+4-2 Hop
+4-3 PW Moment
+4-4 Noisy Poly
+4-5 Reso Up
+4-6 Trance Pluck
+4-7 Chord Line
+4-8 Juno Reso Bs
+5-1 Rude Bass
+5-2 Junoa Bass
+5-3 Sub Deep
+5-4 Heavy Solid Bs
+5-5 Plastik Bass
+5-6 Deep Bass
+5-7 Cargo Bass
+5-8 Big Boy
+6-1 Sweep Bass
+6-2 80s JU Lead
+6-3 Cloud Sines
+6-4 Unison Lead
+6-5 Metal Swell
+6-6 Bright n Warm
+6-7 Dirty Down Lead
+6-8 B4 U Came
+7-1 Brass Pad
+7-2 Brass Pad 2
+7-3 Sine Pad
+7-4 LFO Pad
+7-5 Slow Riser
+7-6 Priority Pad
+7-7 PWM Stringer
+7-8 Synth Dude
+8-1 AmbiHoover
+8-2 Grain Pad
+8-3 Mellow Wurly
+8-4 Drone Zone
+8-5 Jet Setter
+8-6 Louis’ Weapon
+8-7 Periscope
+8-8 Takeoff

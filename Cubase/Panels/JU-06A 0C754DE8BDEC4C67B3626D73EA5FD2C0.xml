@@ -1,0 +1,409 @@
+<template name="[ACE35061016A41E9A5E6CC28DBE4A7BB]Main Panel" size="0,0,1005,615" sizelimit="0,0,0,0">
+	<decor size="5,0,1000,610" style="solidrect" bgcolor="schemeGray30" radius="-1" pen-width="1"/>
+	<decor size="255,275,250,160" style="framerect" bgcolor="white" radius="-1" pen-width="1"/>
+	<decor size="5,275,250,330" style="framerect" bgcolor="white" radius="-1" pen-width="1"/>
+	<decor size="775,5,205,270" style="framerect" bgcolor="white" radius="-1" pen-width="1"/>
+	<decor size="690,5,85,270" style="framerect" bgcolor="white" radius="-1" pen-width="1"/>
+	<decor size="445,5,245,270" style="framerect" bgcolor="white" radius="-1" pen-width="1"/>
+	<decor size="130,5,245,270" style="framerect" bgcolor="white" radius="-1" pen-width="1"/>
+	<decor size="5,5,125,270" style="framerect" bgcolor="white" radius="-1" pen-width="1"/>
+	<decor size="10,10,115,30" style="solidrect" bgcolor="#ED1C24" radius="-1" pen-width="1"/>
+	<decor size="135,10,235,30" style="solidrect" bgcolor="#ED1C24" radius="-1" pen-width="1"/>
+	<decor size="450,10,235,30" style="solidrect" bgcolor="#ED1C24" radius="-1" pen-width="1"/>
+	<decor size="380,10,60,30" style="solidrect" bgcolor="#ED1C24" radius="-1" pen-width="1"/>
+	<decor size="695,10,75,30" style="solidrect" bgcolor="#ED1C24" radius="-1" pen-width="1"/>
+	<decor size="780,10,190,30" style="solidrect" bgcolor="#ED1C24" radius="-1" pen-width="1"/>
+	<view name="Group" size="52,15,30,20">
+		<font name="dataXL" size="12" color="schemeGray10">
+			<label size="0,0,30,20" title="LFO"/>
+		</font>
+	</view>
+	<view name="Group" size="240,15,35,20">
+		<font name="dataXL" size="12" color="schemeGray10">
+			<label size="0,0,35,20" title="DCO"/>
+		</font>
+	</view>
+	<view name="Group" size="180,135,60,132">
+		<slider name="[Tag:4098]DCO LFO" size="15,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="1,120,60,12" attach="left|bottom" title="LFO" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="222,135,60,132">
+		<slider name="[Tag:4100]DCO PWM" size="15,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="1,120,60,12" attach="left|bottom" title="PWM" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="65,135,60,132">
+		<slider name="[Tag:4097]LFO Delay Time" size="15,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="1,120,60,12" attach="left|bottom" title="DELAY TIME" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="5,135,60,132">
+		<slider name="[Tag:5004]LFO Rate" size="15,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="1,120,60,12" attach="left|bottom" title="RATE" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="125,135,60,132">
+		<slider name="[Tag:4099]DCO Range" size="13,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="0,120,60,12" attach="left|bottom" title="RANGE" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="173,195,8,12">
+		<font name="label" size="12" color="schemeGray90">
+			<label size="0,0,8,12" title="8"/>
+		</font>
+	</view>
+	<view name="Group" size="173,140,8,12">
+		<font name="label" size="12" color="schemeGray90">
+			<label size="0,0,8,12" title="4"/>
+		</font>
+	</view>
+	<view name="Group" size="173,239,15,12">
+		<font name="label" size="12" color="schemeGray90">
+			<label size="0,0,15,12" title="16"/>
+		</font>
+	</view>
+	<view name="Group" size="242,80,25,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,25,20" title="LFO"/>
+		</font>
+	</view>
+	<view name="Group" size="272,80,32,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,32,20" title="ENV"/>
+		</font>
+	</view>
+	<view name="Group" size="207,80,30,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,30,20" title="MAN"/>
+		</font>
+	</view>
+	<slider name="[Tag:4101]DCO LFO/MAN/ENV" size="214,103,76,24" style="horizontal|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+	<view name="Group" size="270,145,26,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,26,20" title="SQR"/>
+		</font>
+	</view>
+	<view name="Group" size="270,181,26,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,26,20" title="SAW"/>
+		</font>
+	</view>
+	<view name="Group" size="272,218,22,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,22,20" title="SUB"/>
+		</font>
+	</view>
+	<view name="Group" size="273,203,16,16">
+		<switch name="[Tag:5000]DCO SAW SW" size="0,0,16,16" style="onoff|scheme" offset="0,0" opacity="-1"/>
+		<font name="tinylabel" size="12" color="schemeGray90">
+			<label size="1,0,15,16" attach="left"/>
+		</font>
+	</view>
+	<view name="Group" size="285,135,60,132">
+		<slider name="[Tag:5001]DCO SUB" size="15,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="1,120,60,12" attach="left|bottom" title="SUB" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="325,136,60,132">
+		<slider name="[Tag:5002]DCO Noise" size="15,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="1,120,60,12" attach="left|bottom" title="NOISE" just="center"/>
+		</font>
+	</view>
+	<decor size="375,5,70,270" style="framerect" bgcolor="white" radius="-1" pen-width="1"/>
+	<view name="Group" size="390,15,35,20">
+		<font name="dataXL" size="12" color="schemeGray10">
+			<label size="0,0,35,20" title="HPF"/>
+		</font>
+	</view>
+	<view name="Group" size="380,135,60,132">
+		<slider name="[Tag:5003]HPF Freq" size="15,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="1,120,60,12" attach="left|bottom" title="FREQ" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="273,167,17,16">
+		<switch name="[Tag:4102]DCO SQR SW" size="0,0,17,16" style="onoff|scheme" offset="0,0" opacity="-1"/>
+		<font name="tinylabel" size="12" color="schemeGray90">
+			<label size="1,0,16,16" attach="left"/>
+		</font>
+	</view>
+	<view name="Group" size="273,240,16,16">
+		<switch name="[Tag:4096]DCO SUB SW" size="0,0,16,16" style="onoff|scheme" offset="0,0" opacity="-1"/>
+		<font name="tinylabel" size="12" color="schemeGray90">
+			<label size="1,0,15,16" attach="left"/>
+		</font>
+	</view>
+	<view name="Group" size="553,15,28,20">
+		<font name="dataXL" size="12" color="schemeGray10">
+			<label size="0,0,28,20" title="VCF"/>
+		</font>
+	</view>
+	<view name="Group" size="445,135,60,132">
+		<slider name="[Tag:5005]VCF Freq" size="15,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="1,120,60,12" attach="left|bottom" title="FREQ" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="485,135,60,132">
+		<slider name="[Tag:5006]VCF RES" size="15,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="1,120,60,12" attach="left|bottom" title="RES" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="538,82,68,25">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,68,25" title="ENV Polarity"/>
+		</font>
+	</view>
+	<view name="Group" size="540,135,60,132">
+		<slider name="[Tag:5008]VCF ENV" size="15,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="1,120,60,12" attach="left|bottom" title="ENV" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="584,135,60,132">
+		<slider name="[Tag:5009]VCF LFO" size="15,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="1,120,60,12" attach="left|bottom" title="LFO" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="628,135,60,132">
+		<slider name="[Tag:5010]VCF KYBD" size="15,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="1,120,60,12" attach="left|bottom" title="KYBD" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="717,16,31,20">
+		<font name="dataXL" size="12" color="schemeGray10">
+			<label size="0,0,30,20" title="VCA"/>
+		</font>
+	</view>
+	<slider name="[Tag:5007]VCF ENV Polarity" size="544,103,57,24" style="horizontal|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+	<view name="Group" size="601,105,14,25">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,14,25" title="+"/>
+		</font>
+	</view>
+	<view name="Group" size="535,105,9,25">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,9,25" title="-"/>
+		</font>
+	</view>
+	<slider name="[Tag:5011]VCA ENV/GATE" size="710,103,49,24" style="horizontal|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+	<view name="Group" size="695,80,32,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,32,20" title="GATE"/>
+		</font>
+	</view>
+	<view name="Group" size="745,80,25,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,25,20" title="ENV"/>
+		</font>
+	</view>
+	<view name="Group" size="704,130,60,132">
+		<slider name="[Tag:5012]VCA Level" size="15,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="1,120,60,12" attach="left|bottom" title="LEVEL" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="860,15,31,20">
+		<font name="dataXL" size="12" color="schemeGray10">
+			<label size="0,0,30,20" title="ENV"/>
+		</font>
+	</view>
+	<view name="Group" size="775,130,60,132">
+		<slider name="[Tag:5013]ENV A" size="15,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="1,120,60,12" attach="left|bottom" title="Attack" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="822,131,60,132">
+		<slider name="[Tag:5014]ENV D" size="15,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="1,120,60,12" attach="left|bottom" title="Decay" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="865,131,60,132">
+		<slider name="[Tag:5015]ENV S" size="15,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="1,120,60,12" attach="left|bottom" title="Sustain" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="911,132,60,132">
+		<slider name="[Tag:5016]ENV R" size="15,0,30,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="1,120,60,12" attach="left|bottom" title="Release" just="center"/>
+		</font>
+	</view>
+	<decor size="10,280,240,30" style="solidrect" bgcolor="#ED1C24" radius="-1" pen-width="1"/>
+	<view name="Group" size="80,285,100,20">
+		<font name="dataXL" size="12" color="schemeGray10">
+			<label size="0,0,100,20" title="Patch Params"/>
+		</font>
+	</view>
+	<view name="Group" size="40,322,182,35">
+		<slider name="[Tag:5017]PORTAMENTO TIME" size="0,0,182,21" attach="left|top|right" style="horizontal|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="0,21,182,10" attach="left|top|right" title="PORTAMENTO TIME" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="18,320,19,29">
+		<switch name="[Tag:5018]PORTAMENTO SW" size="0,0,19,29" style="onoff|scheme" offset="0,0" opacity="-1"/>
+		<font name="label" size="12" color="schemeGray90">
+			<label size="2,0,17,29" attach="left"/>
+		</font>
+	</view>
+	<view name="Group" size="40,361,182,34">
+		<slider name="[Tag:5019]Bend Range" size="0,0,182,20" attach="left|top|right" style="horizontal|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="0,20,182,11" attach="left|top|right" title="BEND RANGE" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="40,395,204,30">
+		<switch name="[Tag:5020]TEMPO SYNC" size="0,0,203,30" style="onoff|scheme" offset="0,0" opacity="-1"/>
+		<font name="label" size="12" color="schemeGray90">
+			<label size="20,0,183,30" attach="left" title="TEMPO SYNC"/>
+		</font>
+	</view>
+	<view name="Group" size="10,339,36,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,36,20" title="on/off"/>
+		</font>
+	</view>
+	<view name="Group" size="65,463,50,132">
+		<slider name="[Tag:5021]LFO WAVE" size="12,0,25,120" attach="left|top|bottom" style="vertical|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="0,120,50,12" attach="left|bottom" title="LFO WAVE" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="104,460,40,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,40,20" title="RND2"/>
+		</font>
+	</view>
+	<view name="Group" size="104,478,40,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,40,20" title="RND1"/>
+		</font>
+	</view>
+	<view name="Group" size="104,495,40,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,40,20" title="SIN "/>
+		</font>
+	</view>
+	<view name="Group" size="104,511,40,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,40,20" title="SAW2"/>
+		</font>
+	</view>
+	<view name="Group" size="104,529,40,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,40,20" title="SAW1"/>
+		</font>
+	</view>
+	<view name="Group" size="103,544,40,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,40,20" title="SQR"/>
+		</font>
+	</view>
+	<view name="Group" size="103,562,40,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,40,20" title="TRI"/>
+		</font>
+	</view>
+	<view name="Group" size="40,430,180,30">
+		<switch name="[Tag:5022]LFO TRIG" size="0,0,180,30" style="onoff|scheme" offset="0,0" opacity="-1"/>
+		<font name="label" size="12" color="schemeGray90">
+			<label size="20,0,160,30" attach="left" title="LFO KEY TRIGGER"/>
+		</font>
+	</view>
+	<decor size="260,280,240,30" style="solidrect" bgcolor="#ED1C24" radius="-1" pen-width="1"/>
+	<view name="Group" size="325,285,100,20">
+		<font name="dataXL" size="12" color="schemeGray10">
+			<label size="0,0,100,20" title="Delay Params"/>
+		</font>
+	</view>
+	<view name="Group" size="270,320,15,25">
+		<switch name="[Tag:5023]DELAY SW" size="0,0,15,25" style="onoff|scheme" offset="0,0" opacity="-1"/>
+		<font name="label" size="12" color="schemeGray90">
+			<label size="1,0,14,25" attach="left"/>
+		</font>
+	</view>
+	<view name="Group" size="260,339,36,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,36,20" title="on/off"/>
+		</font>
+	</view>
+	<view name="Group" size="295,322,182,35">
+		<slider name="[Tag:5024]DELAY LEVEL" size="0,0,182,21" attach="left|top|right" style="horizontal|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="0,21,182,10" attach="left|top|right" title="LEVEL" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="295,360,182,34">
+		<slider name="[Tag:5025]DELAY TIME" size="0,0,182,20" attach="left|top|right" style="horizontal|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="0,20,182,11" attach="left|top|right" title="TIME" just="center"/>
+		</font>
+	</view>
+	<view name="Group" size="295,395,182,34">
+		<slider name="[Tag:5026]DELAY FEEDBACK" size="0,0,182,20" attach="left|top|right" style="horizontal|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+		<font name="smalllabel" size="12" color="schemeGray90">
+			<label size="0,20,182,11" attach="left|top|right" title="FEEDBACK" just="center"/>
+		</font>
+	</view>
+	<decor size="255,435,250,70" style="framerect" bgcolor="white" radius="-1" pen-width="1"/>
+	<decor size="260,440,240,30" style="solidrect" bgcolor="#ED1C24" radius="-1" pen-width="1"/>
+	<view name="Group" size="353,445,55,20">
+		<font name="dataXL" size="12" color="schemeGray10">
+			<label size="0,0,55,20" title="Chorus"/>
+		</font>
+	</view>
+	<slider name="[Tag:5027]CHORUS" size="280,475,182,24" style="horizontal|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+	<decor size="255,505,250,100" style="framerect" bgcolor="white" radius="-1" pen-width="1"/>
+	<decor size="260,510,240,30" style="solidrect" bgcolor="#ED1C24" radius="-1" pen-width="1"/>
+	<view name="Group" size="340,515,80,20">
+		<font name="dataXL" size="12" color="schemeGray10">
+			<label size="0,0,80,20" title="Polyphony"/>
+		</font>
+	</view>
+	<slider name="[Tag:5028]POLY" size="280,560,182,24" style="horizontal|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+	<view name="Group" size="385,540,34,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,34,20" title="SOLO"/>
+		</font>
+	</view>
+	<view name="Group" size="450,540,34,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,34,20" title="UNI"/>
+		</font>
+	</view>
+	<view name="Group" size="270,540,34,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,34,20" title="POLY"/>
+		</font>
+	</view>
+	<view name="Group" size="330,540,25,20">
+		<font name="data" size="12" color="schemeGray90">
+			<label size="0,0,25,20" title="N/A"/>
+		</font>
+	</view>
+</template>
+
+
+<resources/>
+
+<header/>
+
+<scheme/>
+
+<scripts/>
+
