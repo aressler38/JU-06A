@@ -5,7 +5,7 @@ These are custom Cubase panels and midi device files for Cubase 11 Pro. I haven'
 
 ## Example
 
-![Sample](sample.png)
+![Sample](sample1.png)
 
 
 # Notes
