@@ -1,6 +1,7 @@
 # How To Install MIDI Device
 
-In Cubase 11, go to Studio > More Options > MIDI Device Manager to import files inside of MIDI Device Manager.
+* **The ju-06a-midi-inst.xml file has a FNPath object in it with a "path" string XML element that needs to be set to your installation of Cubase!**
+* After you update the path in that file, in Cubase, go to Studio > More Options > MIDI Device Manager to import it.
 
 # Panels and Presets
 
