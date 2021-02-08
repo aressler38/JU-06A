@@ -1,4 +1,4 @@
-<template name="[ACE35061016A41E9A5E6CC28DBE4A7BB]Main Panel" size="0,0,1005,615" sizelimit="0,0,0,0">
+<template name="[AA8FA16594304D948E3AE914DA120F25]Main Panel" size="0,0,1005,615" sizelimit="0,0,0,0">
 	<decor size="5,0,1000,610" style="solidrect" bgcolor="schemeGray30" radius="-1" pen-width="1"/>
 	<decor size="255,275,250,160" style="framerect" bgcolor="white" radius="-1" pen-width="1"/>
 	<decor size="5,275,250,330" style="framerect" bgcolor="white" radius="-1" pen-width="1"/>
@@ -406,4 +406,3 @@
 <scheme/>
 
 <scripts/>
-
