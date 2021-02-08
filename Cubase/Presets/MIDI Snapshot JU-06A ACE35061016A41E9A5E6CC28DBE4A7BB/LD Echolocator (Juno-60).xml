@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MIDI_Snapshot_JU-06A_ACE35061016A41E9A5E6CC28DBE4A7BBPreset>
+   <int name="Can Modify" value="1"/>
+   <obj class="FAttribPreset" name="Preset" ID="748506768">
+      <list name="Parameter Tags" type="int">
+         <item value="4096"/>
+         <item value="4097"/>
+         <item value="4098"/>
+         <item value="4099"/>
+         <item value="4100"/>
+         <item value="4101"/>
+         <item value="4102"/>
+         <item value="5000"/>
+         <item value="5001"/>
+         <item value="5002"/>
+         <item value="5003"/>
+         <item value="5004"/>
+         <item value="5005"/>
+         <item value="5006"/>
+         <item value="5007"/>
+         <item value="5008"/>
+         <item value="5009"/>
+         <item value="5010"/>
+         <item value="5011"/>
+         <item value="5012"/>
+         <item value="5013"/>
+         <item value="5014"/>
+         <item value="5015"/>
+         <item value="5016"/>
+         <item value="5017"/>
+         <item value="5018"/>
+         <item value="5019"/>
+         <item value="5020"/>
+         <item value="5021"/>
+         <item value="5022"/>
+         <item value="5023"/>
+         <item value="5024"/>
+         <item value="5025"/>
+         <item value="5026"/>
+         <item value="5027"/>
+         <item value="5028"/>
+      </list>
+      <list name="Parameter Values" type="float">
+         <item value="1"/>
+         <item value="0.14173229038715362548828125"/>
+         <item value="0"/>
+         <item value="0.5"/>
+         <item value="0.77952754497528076171875"/>
+         <item value="0.5"/>
+         <item value="1"/>
+         <item value="0"/>
+         <item value="0.5275590419769287109375"/>
+         <item value="0"/>
+         <item value="0.4409448802471160888671875"/>
+         <item value="0.354330718517303466796875"/>
+         <item value="0.5039370059967041015625"/>
+         <item value="0"/>
+         <item value="1"/>
+         <item value="0.850393712520599365234375"/>
+         <item value="0"/>
+         <item value="0.69291341304779052734375"/>
+         <item value="1"/>
+         <item value="0.653543293476104736328125"/>
+         <item value="0.24409449100494384765625"/>
+         <item value="0.685039341449737548828125"/>
+         <item value="0.645669281482696533203125"/>
+         <item value="0"/>
+         <item value="0.78740155696868896484375"/>
+         <item value="0"/>
+         <item value="0.083333335816860198974609375"/>
+         <item value="0"/>
+         <item value="0"/>
+         <item value="0"/>
+         <item value="1"/>
+         <item value="0.533333361148834228515625"/>
+         <item value="0.86666667461395263671875"/>
+         <item value="0.60000002384185791015625"/>
+         <item value="0.666666686534881591796875"/>
+         <item value="0.666666686534881591796875"/>
+      </list>
+   </obj>
+</MIDI_Snapshot_JU-06A_ACE35061016A41E9A5E6CC28DBE4A7BBPreset>
