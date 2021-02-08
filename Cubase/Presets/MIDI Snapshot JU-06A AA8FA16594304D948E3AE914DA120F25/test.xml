@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MIDI_Snapshot_JU-06A_AA8FA16594304D948E3AE914DA120F25Preset>
    <int name="Can Modify" value="1"/>
-   <obj class="FAttribPreset" name="Preset" ID="748506768">
+   <obj class="FAttribPreset" name="Preset" ID="1099508704">
       <list name="SubSnapshots" type="list">
          <item>
             <string name="SubNodeName" value="Channel 1"/>
@@ -47,46 +47,46 @@
             </list>
             <list name="Parameter Values" type="float">
                <item value="1"/>
-               <item value="0.14173229038715362548828125"/>
                <item value="0"/>
-               <item value="0.5"/>
-               <item value="0.77952754497528076171875"/>
-               <item value="0.5"/>
-               <item value="1"/>
                <item value="0"/>
-               <item value="0.5275590419769287109375"/>
-               <item value="0"/>
-               <item value="0.4409448802471160888671875"/>
-               <item value="0.354330718517303466796875"/>
-               <item value="0.5039370059967041015625"/>
-               <item value="0"/>
-               <item value="1"/>
-               <item value="0.850393712520599365234375"/>
-               <item value="0"/>
-               <item value="0.69291341304779052734375"/>
-               <item value="1"/>
-               <item value="0.653543293476104736328125"/>
-               <item value="0.24409449100494384765625"/>
-               <item value="0.685039341449737548828125"/>
-               <item value="0.645669281482696533203125"/>
-               <item value="0"/>
-               <item value="0.78740155696868896484375"/>
-               <item value="0"/>
-               <item value="0.083333335816860198974609375"/>
                <item value="0"/>
                <item value="0"/>
                <item value="0"/>
                <item value="1"/>
-               <item value="0.533333361148834228515625"/>
-               <item value="0.86666667461395263671875"/>
-               <item value="0.60000002384185791015625"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="1"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.4960629940032958984375"/>
+               <item value="0"/>
+               <item value="0.2916666567325592041015625"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
             </list>
          </item>
          <item>
             <string name="SubNodeName" value="Channel 2"/>
-            <int name="SubNodeIndex" value="0"/>
+            <int name="SubNodeIndex" value="1"/>
             <string name="SubNodeClass" value="MidiDeviceNode"/>
             <list name="Parameter Tags" type="int">
                <item value="4096"/>
@@ -128,46 +128,46 @@
             </list>
             <list name="Parameter Values" type="float">
                <item value="1"/>
-               <item value="0.14173229038715362548828125"/>
                <item value="0"/>
-               <item value="0.5"/>
-               <item value="0.77952754497528076171875"/>
-               <item value="0.5"/>
-               <item value="1"/>
                <item value="0"/>
-               <item value="0.5275590419769287109375"/>
-               <item value="0"/>
-               <item value="0.4409448802471160888671875"/>
-               <item value="0.354330718517303466796875"/>
-               <item value="0.5039370059967041015625"/>
-               <item value="0"/>
-               <item value="1"/>
-               <item value="0.850393712520599365234375"/>
-               <item value="0"/>
-               <item value="0.69291341304779052734375"/>
-               <item value="1"/>
-               <item value="0.653543293476104736328125"/>
-               <item value="0.24409449100494384765625"/>
-               <item value="0.685039341449737548828125"/>
-               <item value="0.645669281482696533203125"/>
-               <item value="0"/>
-               <item value="0.78740155696868896484375"/>
-               <item value="0"/>
-               <item value="0.083333335816860198974609375"/>
                <item value="0"/>
                <item value="0"/>
                <item value="0"/>
                <item value="1"/>
-               <item value="0.533333361148834228515625"/>
-               <item value="0.86666667461395263671875"/>
-               <item value="0.60000002384185791015625"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="1"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.4960629940032958984375"/>
+               <item value="0"/>
+               <item value="0.2916666567325592041015625"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
             </list>
          </item>
          <item>
             <string name="SubNodeName" value="Channel 3"/>
-            <int name="SubNodeIndex" value="0"/>
+            <int name="SubNodeIndex" value="2"/>
             <string name="SubNodeClass" value="MidiDeviceNode"/>
             <list name="Parameter Tags" type="int">
                <item value="4096"/>
@@ -209,46 +209,46 @@
             </list>
             <list name="Parameter Values" type="float">
                <item value="1"/>
-               <item value="0.14173229038715362548828125"/>
                <item value="0"/>
-               <item value="0.5"/>
-               <item value="0.77952754497528076171875"/>
-               <item value="0.5"/>
-               <item value="1"/>
                <item value="0"/>
-               <item value="0.5275590419769287109375"/>
-               <item value="0"/>
-               <item value="0.4409448802471160888671875"/>
-               <item value="0.354330718517303466796875"/>
-               <item value="0.5039370059967041015625"/>
-               <item value="0"/>
-               <item value="1"/>
-               <item value="0.850393712520599365234375"/>
-               <item value="0"/>
-               <item value="0.69291341304779052734375"/>
-               <item value="1"/>
-               <item value="0.653543293476104736328125"/>
-               <item value="0.24409449100494384765625"/>
-               <item value="0.685039341449737548828125"/>
-               <item value="0.645669281482696533203125"/>
-               <item value="0"/>
-               <item value="0.78740155696868896484375"/>
-               <item value="0"/>
-               <item value="0.083333335816860198974609375"/>
                <item value="0"/>
                <item value="0"/>
                <item value="0"/>
                <item value="1"/>
-               <item value="0.533333361148834228515625"/>
-               <item value="0.86666667461395263671875"/>
-               <item value="0.60000002384185791015625"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="1"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.4960629940032958984375"/>
+               <item value="0"/>
+               <item value="0.2916666567325592041015625"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
             </list>
          </item>
          <item>
             <string name="SubNodeName" value="Channel 4"/>
-            <int name="SubNodeIndex" value="0"/>
+            <int name="SubNodeIndex" value="3"/>
             <string name="SubNodeClass" value="MidiDeviceNode"/>
             <list name="Parameter Tags" type="int">
                <item value="4096"/>
@@ -290,46 +290,46 @@
             </list>
             <list name="Parameter Values" type="float">
                <item value="1"/>
-               <item value="0.14173229038715362548828125"/>
                <item value="0"/>
-               <item value="0.5"/>
-               <item value="0.77952754497528076171875"/>
-               <item value="0.5"/>
-               <item value="1"/>
                <item value="0"/>
-               <item value="0.5275590419769287109375"/>
-               <item value="0"/>
-               <item value="0.4409448802471160888671875"/>
-               <item value="0.354330718517303466796875"/>
-               <item value="0.5039370059967041015625"/>
-               <item value="0"/>
-               <item value="1"/>
-               <item value="0.850393712520599365234375"/>
-               <item value="0"/>
-               <item value="0.69291341304779052734375"/>
-               <item value="1"/>
-               <item value="0.653543293476104736328125"/>
-               <item value="0.24409449100494384765625"/>
-               <item value="0.685039341449737548828125"/>
-               <item value="0.645669281482696533203125"/>
-               <item value="0"/>
-               <item value="0.78740155696868896484375"/>
-               <item value="0"/>
-               <item value="0.083333335816860198974609375"/>
                <item value="0"/>
                <item value="0"/>
                <item value="0"/>
                <item value="1"/>
-               <item value="0.533333361148834228515625"/>
-               <item value="0.86666667461395263671875"/>
-               <item value="0.60000002384185791015625"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="1"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.4960629940032958984375"/>
+               <item value="0"/>
+               <item value="0.2916666567325592041015625"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
             </list>
          </item>
          <item>
             <string name="SubNodeName" value="Channel 5"/>
-            <int name="SubNodeIndex" value="0"/>
+            <int name="SubNodeIndex" value="4"/>
             <string name="SubNodeClass" value="MidiDeviceNode"/>
             <list name="Parameter Tags" type="int">
                <item value="4096"/>
@@ -371,46 +371,46 @@
             </list>
             <list name="Parameter Values" type="float">
                <item value="1"/>
-               <item value="0.14173229038715362548828125"/>
                <item value="0"/>
-               <item value="0.5"/>
-               <item value="0.77952754497528076171875"/>
-               <item value="0.5"/>
-               <item value="1"/>
                <item value="0"/>
-               <item value="0.5275590419769287109375"/>
-               <item value="0"/>
-               <item value="0.4409448802471160888671875"/>
-               <item value="0.354330718517303466796875"/>
-               <item value="0.5039370059967041015625"/>
-               <item value="0"/>
-               <item value="1"/>
-               <item value="0.850393712520599365234375"/>
-               <item value="0"/>
-               <item value="0.69291341304779052734375"/>
-               <item value="1"/>
-               <item value="0.653543293476104736328125"/>
-               <item value="0.24409449100494384765625"/>
-               <item value="0.685039341449737548828125"/>
-               <item value="0.645669281482696533203125"/>
-               <item value="0"/>
-               <item value="0.78740155696868896484375"/>
-               <item value="0"/>
-               <item value="0.083333335816860198974609375"/>
                <item value="0"/>
                <item value="0"/>
                <item value="0"/>
                <item value="1"/>
-               <item value="0.533333361148834228515625"/>
-               <item value="0.86666667461395263671875"/>
-               <item value="0.60000002384185791015625"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="1"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.4960629940032958984375"/>
+               <item value="0"/>
+               <item value="0.2916666567325592041015625"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
             </list>
          </item>
          <item>
             <string name="SubNodeName" value="Channel 6"/>
-            <int name="SubNodeIndex" value="0"/>
+            <int name="SubNodeIndex" value="5"/>
             <string name="SubNodeClass" value="MidiDeviceNode"/>
             <list name="Parameter Tags" type="int">
                <item value="4096"/>
@@ -452,46 +452,46 @@
             </list>
             <list name="Parameter Values" type="float">
                <item value="1"/>
-               <item value="0.14173229038715362548828125"/>
                <item value="0"/>
-               <item value="0.5"/>
-               <item value="0.77952754497528076171875"/>
-               <item value="0.5"/>
-               <item value="1"/>
                <item value="0"/>
-               <item value="0.5275590419769287109375"/>
-               <item value="0"/>
-               <item value="0.4409448802471160888671875"/>
-               <item value="0.354330718517303466796875"/>
-               <item value="0.5039370059967041015625"/>
-               <item value="0"/>
-               <item value="1"/>
-               <item value="0.850393712520599365234375"/>
-               <item value="0"/>
-               <item value="0.69291341304779052734375"/>
-               <item value="1"/>
-               <item value="0.653543293476104736328125"/>
-               <item value="0.24409449100494384765625"/>
-               <item value="0.685039341449737548828125"/>
-               <item value="0.645669281482696533203125"/>
-               <item value="0"/>
-               <item value="0.78740155696868896484375"/>
-               <item value="0"/>
-               <item value="0.083333335816860198974609375"/>
                <item value="0"/>
                <item value="0"/>
                <item value="0"/>
                <item value="1"/>
-               <item value="0.533333361148834228515625"/>
-               <item value="0.86666667461395263671875"/>
-               <item value="0.60000002384185791015625"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="1"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.4960629940032958984375"/>
+               <item value="0"/>
+               <item value="0.2916666567325592041015625"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
             </list>
          </item>
          <item>
             <string name="SubNodeName" value="Channel 7"/>
-            <int name="SubNodeIndex" value="0"/>
+            <int name="SubNodeIndex" value="6"/>
             <string name="SubNodeClass" value="MidiDeviceNode"/>
             <list name="Parameter Tags" type="int">
                <item value="4096"/>
@@ -533,46 +533,46 @@
             </list>
             <list name="Parameter Values" type="float">
                <item value="1"/>
-               <item value="0.14173229038715362548828125"/>
                <item value="0"/>
-               <item value="0.5"/>
-               <item value="0.77952754497528076171875"/>
-               <item value="0.5"/>
-               <item value="1"/>
                <item value="0"/>
-               <item value="0.5275590419769287109375"/>
-               <item value="0"/>
-               <item value="0.4409448802471160888671875"/>
-               <item value="0.354330718517303466796875"/>
-               <item value="0.5039370059967041015625"/>
-               <item value="0"/>
-               <item value="1"/>
-               <item value="0.850393712520599365234375"/>
-               <item value="0"/>
-               <item value="0.69291341304779052734375"/>
-               <item value="1"/>
-               <item value="0.653543293476104736328125"/>
-               <item value="0.24409449100494384765625"/>
-               <item value="0.685039341449737548828125"/>
-               <item value="0.645669281482696533203125"/>
-               <item value="0"/>
-               <item value="0.78740155696868896484375"/>
-               <item value="0"/>
-               <item value="0.083333335816860198974609375"/>
                <item value="0"/>
                <item value="0"/>
                <item value="0"/>
                <item value="1"/>
-               <item value="0.533333361148834228515625"/>
-               <item value="0.86666667461395263671875"/>
-               <item value="0.60000002384185791015625"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="1"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.4960629940032958984375"/>
+               <item value="0"/>
+               <item value="0.2916666567325592041015625"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
             </list>
          </item>
          <item>
             <string name="SubNodeName" value="Channel 8"/>
-            <int name="SubNodeIndex" value="0"/>
+            <int name="SubNodeIndex" value="7"/>
             <string name="SubNodeClass" value="MidiDeviceNode"/>
             <list name="Parameter Tags" type="int">
                <item value="4096"/>
@@ -614,46 +614,46 @@
             </list>
             <list name="Parameter Values" type="float">
                <item value="1"/>
-               <item value="0.14173229038715362548828125"/>
                <item value="0"/>
-               <item value="0.5"/>
-               <item value="0.77952754497528076171875"/>
-               <item value="0.5"/>
-               <item value="1"/>
                <item value="0"/>
-               <item value="0.5275590419769287109375"/>
-               <item value="0"/>
-               <item value="0.4409448802471160888671875"/>
-               <item value="0.354330718517303466796875"/>
-               <item value="0.5039370059967041015625"/>
-               <item value="0"/>
-               <item value="1"/>
-               <item value="0.850393712520599365234375"/>
-               <item value="0"/>
-               <item value="0.69291341304779052734375"/>
-               <item value="1"/>
-               <item value="0.653543293476104736328125"/>
-               <item value="0.24409449100494384765625"/>
-               <item value="0.685039341449737548828125"/>
-               <item value="0.645669281482696533203125"/>
-               <item value="0"/>
-               <item value="0.78740155696868896484375"/>
-               <item value="0"/>
-               <item value="0.083333335816860198974609375"/>
                <item value="0"/>
                <item value="0"/>
                <item value="0"/>
                <item value="1"/>
-               <item value="0.533333361148834228515625"/>
-               <item value="0.86666667461395263671875"/>
-               <item value="0.60000002384185791015625"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="1"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.4960629940032958984375"/>
+               <item value="0"/>
+               <item value="0.2916666567325592041015625"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
             </list>
          </item>
          <item>
             <string name="SubNodeName" value="Channel 9"/>
-            <int name="SubNodeIndex" value="0"/>
+            <int name="SubNodeIndex" value="8"/>
             <string name="SubNodeClass" value="MidiDeviceNode"/>
             <list name="Parameter Tags" type="int">
                <item value="4096"/>
@@ -695,46 +695,46 @@
             </list>
             <list name="Parameter Values" type="float">
                <item value="1"/>
-               <item value="0.14173229038715362548828125"/>
                <item value="0"/>
-               <item value="0.5"/>
-               <item value="0.77952754497528076171875"/>
-               <item value="0.5"/>
-               <item value="1"/>
                <item value="0"/>
-               <item value="0.5275590419769287109375"/>
-               <item value="0"/>
-               <item value="0.4409448802471160888671875"/>
-               <item value="0.354330718517303466796875"/>
-               <item value="0.5039370059967041015625"/>
-               <item value="0"/>
-               <item value="1"/>
-               <item value="0.850393712520599365234375"/>
-               <item value="0"/>
-               <item value="0.69291341304779052734375"/>
-               <item value="1"/>
-               <item value="0.653543293476104736328125"/>
-               <item value="0.24409449100494384765625"/>
-               <item value="0.685039341449737548828125"/>
-               <item value="0.645669281482696533203125"/>
-               <item value="0"/>
-               <item value="0.78740155696868896484375"/>
-               <item value="0"/>
-               <item value="0.083333335816860198974609375"/>
                <item value="0"/>
                <item value="0"/>
                <item value="0"/>
                <item value="1"/>
-               <item value="0.533333361148834228515625"/>
-               <item value="0.86666667461395263671875"/>
-               <item value="0.60000002384185791015625"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="1"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.4960629940032958984375"/>
+               <item value="0"/>
+               <item value="0.2916666567325592041015625"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
             </list>
          </item>
          <item>
             <string name="SubNodeName" value="Channel 10"/>
-            <int name="SubNodeIndex" value="0"/>
+            <int name="SubNodeIndex" value="9"/>
             <string name="SubNodeClass" value="MidiDeviceNode"/>
             <list name="Parameter Tags" type="int">
                <item value="4096"/>
@@ -776,46 +776,46 @@
             </list>
             <list name="Parameter Values" type="float">
                <item value="1"/>
-               <item value="0.14173229038715362548828125"/>
                <item value="0"/>
-               <item value="0.5"/>
-               <item value="0.77952754497528076171875"/>
-               <item value="0.5"/>
-               <item value="1"/>
                <item value="0"/>
-               <item value="0.5275590419769287109375"/>
-               <item value="0"/>
-               <item value="0.4409448802471160888671875"/>
-               <item value="0.354330718517303466796875"/>
-               <item value="0.5039370059967041015625"/>
-               <item value="0"/>
-               <item value="1"/>
-               <item value="0.850393712520599365234375"/>
-               <item value="0"/>
-               <item value="0.69291341304779052734375"/>
-               <item value="1"/>
-               <item value="0.653543293476104736328125"/>
-               <item value="0.24409449100494384765625"/>
-               <item value="0.685039341449737548828125"/>
-               <item value="0.645669281482696533203125"/>
-               <item value="0"/>
-               <item value="0.78740155696868896484375"/>
-               <item value="0"/>
-               <item value="0.083333335816860198974609375"/>
                <item value="0"/>
                <item value="0"/>
                <item value="0"/>
                <item value="1"/>
-               <item value="0.533333361148834228515625"/>
-               <item value="0.86666667461395263671875"/>
-               <item value="0.60000002384185791015625"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="1"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.4960629940032958984375"/>
+               <item value="0"/>
+               <item value="0.2916666567325592041015625"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
             </list>
          </item>
          <item>
             <string name="SubNodeName" value="Channel 11"/>
-            <int name="SubNodeIndex" value="0"/>
+            <int name="SubNodeIndex" value="10"/>
             <string name="SubNodeClass" value="MidiDeviceNode"/>
             <list name="Parameter Tags" type="int">
                <item value="4096"/>
@@ -857,46 +857,46 @@
             </list>
             <list name="Parameter Values" type="float">
                <item value="1"/>
-               <item value="0.14173229038715362548828125"/>
                <item value="0"/>
-               <item value="0.5"/>
-               <item value="0.77952754497528076171875"/>
-               <item value="0.5"/>
-               <item value="1"/>
                <item value="0"/>
-               <item value="0.5275590419769287109375"/>
-               <item value="0"/>
-               <item value="0.4409448802471160888671875"/>
-               <item value="0.354330718517303466796875"/>
-               <item value="0.5039370059967041015625"/>
-               <item value="0"/>
-               <item value="1"/>
-               <item value="0.850393712520599365234375"/>
-               <item value="0"/>
-               <item value="0.69291341304779052734375"/>
-               <item value="1"/>
-               <item value="0.653543293476104736328125"/>
-               <item value="0.24409449100494384765625"/>
-               <item value="0.685039341449737548828125"/>
-               <item value="0.645669281482696533203125"/>
-               <item value="0"/>
-               <item value="0.78740155696868896484375"/>
-               <item value="0"/>
-               <item value="0.083333335816860198974609375"/>
                <item value="0"/>
                <item value="0"/>
                <item value="0"/>
                <item value="1"/>
-               <item value="0.533333361148834228515625"/>
-               <item value="0.86666667461395263671875"/>
-               <item value="0.60000002384185791015625"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="1"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.4960629940032958984375"/>
+               <item value="0"/>
+               <item value="0.2916666567325592041015625"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
             </list>
          </item>
          <item>
             <string name="SubNodeName" value="Channel 12"/>
-            <int name="SubNodeIndex" value="0"/>
+            <int name="SubNodeIndex" value="11"/>
             <string name="SubNodeClass" value="MidiDeviceNode"/>
             <list name="Parameter Tags" type="int">
                <item value="4096"/>
@@ -938,46 +938,46 @@
             </list>
             <list name="Parameter Values" type="float">
                <item value="1"/>
-               <item value="0.14173229038715362548828125"/>
                <item value="0"/>
-               <item value="0.5"/>
-               <item value="0.77952754497528076171875"/>
-               <item value="0.5"/>
-               <item value="1"/>
                <item value="0"/>
-               <item value="0.5275590419769287109375"/>
-               <item value="0"/>
-               <item value="0.4409448802471160888671875"/>
-               <item value="0.354330718517303466796875"/>
-               <item value="0.5039370059967041015625"/>
-               <item value="0"/>
-               <item value="1"/>
-               <item value="0.850393712520599365234375"/>
-               <item value="0"/>
-               <item value="0.69291341304779052734375"/>
-               <item value="1"/>
-               <item value="0.653543293476104736328125"/>
-               <item value="0.24409449100494384765625"/>
-               <item value="0.685039341449737548828125"/>
-               <item value="0.645669281482696533203125"/>
-               <item value="0"/>
-               <item value="0.78740155696868896484375"/>
-               <item value="0"/>
-               <item value="0.083333335816860198974609375"/>
                <item value="0"/>
                <item value="0"/>
                <item value="0"/>
                <item value="1"/>
-               <item value="0.533333361148834228515625"/>
-               <item value="0.86666667461395263671875"/>
-               <item value="0.60000002384185791015625"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="1"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.4960629940032958984375"/>
+               <item value="0"/>
+               <item value="0.2916666567325592041015625"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
             </list>
          </item>
          <item>
             <string name="SubNodeName" value="Channel 13"/>
-            <int name="SubNodeIndex" value="0"/>
+            <int name="SubNodeIndex" value="12"/>
             <string name="SubNodeClass" value="MidiDeviceNode"/>
             <list name="Parameter Tags" type="int">
                <item value="4096"/>
@@ -1019,46 +1019,46 @@
             </list>
             <list name="Parameter Values" type="float">
                <item value="1"/>
-               <item value="0.14173229038715362548828125"/>
                <item value="0"/>
-               <item value="0.5"/>
-               <item value="0.77952754497528076171875"/>
-               <item value="0.5"/>
-               <item value="1"/>
                <item value="0"/>
-               <item value="0.5275590419769287109375"/>
-               <item value="0"/>
-               <item value="0.4409448802471160888671875"/>
-               <item value="0.354330718517303466796875"/>
-               <item value="0.5039370059967041015625"/>
-               <item value="0"/>
-               <item value="1"/>
-               <item value="0.850393712520599365234375"/>
-               <item value="0"/>
-               <item value="0.69291341304779052734375"/>
-               <item value="1"/>
-               <item value="0.653543293476104736328125"/>
-               <item value="0.24409449100494384765625"/>
-               <item value="0.685039341449737548828125"/>
-               <item value="0.645669281482696533203125"/>
-               <item value="0"/>
-               <item value="0.78740155696868896484375"/>
-               <item value="0"/>
-               <item value="0.083333335816860198974609375"/>
                <item value="0"/>
                <item value="0"/>
                <item value="0"/>
                <item value="1"/>
-               <item value="0.533333361148834228515625"/>
-               <item value="0.86666667461395263671875"/>
-               <item value="0.60000002384185791015625"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="1"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.4960629940032958984375"/>
+               <item value="0"/>
+               <item value="0.2916666567325592041015625"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
             </list>
          </item>
          <item>
             <string name="SubNodeName" value="Channel 14"/>
-            <int name="SubNodeIndex" value="0"/>
+            <int name="SubNodeIndex" value="13"/>
             <string name="SubNodeClass" value="MidiDeviceNode"/>
             <list name="Parameter Tags" type="int">
                <item value="4096"/>
@@ -1100,46 +1100,46 @@
             </list>
             <list name="Parameter Values" type="float">
                <item value="1"/>
-               <item value="0.14173229038715362548828125"/>
                <item value="0"/>
-               <item value="0.5"/>
-               <item value="0.77952754497528076171875"/>
-               <item value="0.5"/>
-               <item value="1"/>
                <item value="0"/>
-               <item value="0.5275590419769287109375"/>
-               <item value="0"/>
-               <item value="0.4409448802471160888671875"/>
-               <item value="0.354330718517303466796875"/>
-               <item value="0.5039370059967041015625"/>
-               <item value="0"/>
-               <item value="1"/>
-               <item value="0.850393712520599365234375"/>
-               <item value="0"/>
-               <item value="0.69291341304779052734375"/>
-               <item value="1"/>
-               <item value="0.653543293476104736328125"/>
-               <item value="0.24409449100494384765625"/>
-               <item value="0.685039341449737548828125"/>
-               <item value="0.645669281482696533203125"/>
-               <item value="0"/>
-               <item value="0.78740155696868896484375"/>
-               <item value="0"/>
-               <item value="0.083333335816860198974609375"/>
                <item value="0"/>
                <item value="0"/>
                <item value="0"/>
                <item value="1"/>
-               <item value="0.533333361148834228515625"/>
-               <item value="0.86666667461395263671875"/>
-               <item value="0.60000002384185791015625"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="1"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.4960629940032958984375"/>
+               <item value="0"/>
+               <item value="0.2916666567325592041015625"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
             </list>
          </item>
          <item>
             <string name="SubNodeName" value="Channel 15"/>
-            <int name="SubNodeIndex" value="0"/>
+            <int name="SubNodeIndex" value="14"/>
             <string name="SubNodeClass" value="MidiDeviceNode"/>
             <list name="Parameter Tags" type="int">
                <item value="4096"/>
@@ -1181,46 +1181,46 @@
             </list>
             <list name="Parameter Values" type="float">
                <item value="1"/>
-               <item value="0.14173229038715362548828125"/>
                <item value="0"/>
-               <item value="0.5"/>
-               <item value="0.77952754497528076171875"/>
-               <item value="0.5"/>
-               <item value="1"/>
                <item value="0"/>
-               <item value="0.5275590419769287109375"/>
-               <item value="0"/>
-               <item value="0.4409448802471160888671875"/>
-               <item value="0.354330718517303466796875"/>
-               <item value="0.5039370059967041015625"/>
-               <item value="0"/>
-               <item value="1"/>
-               <item value="0.850393712520599365234375"/>
-               <item value="0"/>
-               <item value="0.69291341304779052734375"/>
-               <item value="1"/>
-               <item value="0.653543293476104736328125"/>
-               <item value="0.24409449100494384765625"/>
-               <item value="0.685039341449737548828125"/>
-               <item value="0.645669281482696533203125"/>
-               <item value="0"/>
-               <item value="0.78740155696868896484375"/>
-               <item value="0"/>
-               <item value="0.083333335816860198974609375"/>
                <item value="0"/>
                <item value="0"/>
                <item value="0"/>
                <item value="1"/>
-               <item value="0.533333361148834228515625"/>
-               <item value="0.86666667461395263671875"/>
-               <item value="0.60000002384185791015625"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="1"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.4960629940032958984375"/>
+               <item value="0"/>
+               <item value="0.2916666567325592041015625"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
             </list>
          </item>
          <item>
             <string name="SubNodeName" value="Channel 16"/>
-            <int name="SubNodeIndex" value="0"/>
+            <int name="SubNodeIndex" value="15"/>
             <string name="SubNodeClass" value="MidiDeviceNode"/>
             <list name="Parameter Tags" type="int">
                <item value="4096"/>
@@ -1262,40 +1262,40 @@
             </list>
             <list name="Parameter Values" type="float">
                <item value="1"/>
-               <item value="0.14173229038715362548828125"/>
                <item value="0"/>
-               <item value="0.5"/>
-               <item value="0.77952754497528076171875"/>
-               <item value="0.5"/>
-               <item value="1"/>
                <item value="0"/>
-               <item value="0.5275590419769287109375"/>
-               <item value="0"/>
-               <item value="0.4409448802471160888671875"/>
-               <item value="0.354330718517303466796875"/>
-               <item value="0.5039370059967041015625"/>
-               <item value="0"/>
-               <item value="1"/>
-               <item value="0.850393712520599365234375"/>
-               <item value="0"/>
-               <item value="0.69291341304779052734375"/>
-               <item value="1"/>
-               <item value="0.653543293476104736328125"/>
-               <item value="0.24409449100494384765625"/>
-               <item value="0.685039341449737548828125"/>
-               <item value="0.645669281482696533203125"/>
-               <item value="0"/>
-               <item value="0.78740155696868896484375"/>
-               <item value="0"/>
-               <item value="0.083333335816860198974609375"/>
                <item value="0"/>
                <item value="0"/>
                <item value="0"/>
                <item value="1"/>
-               <item value="0.533333361148834228515625"/>
-               <item value="0.86666667461395263671875"/>
-               <item value="0.60000002384185791015625"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="1"/>
+               <item value="0.393700778484344482421875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.27559053897857666015625"/>
+               <item value="0.4960629940032958984375"/>
+               <item value="0"/>
+               <item value="0.2916666567325592041015625"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
+               <item value="0"/>
+               <item value="0"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="1"/>
+               <item value="0"/>
                <item value="0.666666686534881591796875"/>
             </list>
          </item>

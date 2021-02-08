@@ -1,4 +1,4 @@
-<template name="[AA8FA16594304D948E3AE914DA120F25]Main Panel" size="0,0,1005,615" sizelimit="0,0,0,0">
+<template name="[ACE35061016A41E9A5E6CC28DBE4A7BB]Main Panel" size="0,0,1005,615" sizelimit="0,0,0,0">
 	<decor size="5,0,1000,610" style="solidrect" bgcolor="schemeGray30" radius="-1" pen-width="1"/>
 	<decor size="255,275,250,160" style="framerect" bgcolor="white" radius="-1" pen-width="1"/>
 	<decor size="5,275,250,330" style="framerect" bgcolor="white" radius="-1" pen-width="1"/>
@@ -367,7 +367,7 @@
 			<label size="0,0,55,20" title="Chorus"/>
 		</font>
 	</view>
-	<slider name="[Tag:5027]CHORUS" size="280,475,182,24" style="horizontal|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
+	<slider name="[Tag:5027]CHORUS" size="286,477,182,24" style="horizontal|tiled|showvalue" rampsize="0" offset="0,0" stripcolor="datafieldfore" rotary-multiplier="0"/>
 	<decor size="255,505,250,100" style="framerect" bgcolor="white" radius="-1" pen-width="1"/>
 	<decor size="260,510,240,30" style="solidrect" bgcolor="#ED1C24" radius="-1" pen-width="1"/>
 	<view name="Group" size="340,515,80,20">
@@ -398,6 +398,11 @@
 	</view>
 </template>
 
+<template name="[AA8FA16594304D948E3AE914DA120F25]MAIN" size="0,0,1009,610" sizelimit="0,0,0,0">
+	<view name="MAIN" size="4,4,1009,610" title="view"/>
+	<view name="[ACE35061016A41E9A5E6CC28DBE4A7BB,0]Main Panel" size="0,2,1005,615" title="view"/>
+</template>
+
 
 <resources/>
 
@@ -406,3 +411,4 @@
 <scheme/>
 
 <scripts/>
+
